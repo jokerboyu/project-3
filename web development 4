@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+
+<head>
+<title>   my website    </title>
+<style>
+body{background-color:rgb(227,244,234)}
+h1{color:red}
+p{color:greed}
+h1{text-align:center}
+
+</style>
+
+</head>
+
+
+
+<body>
+
+<h1> <ins>  My paragraph </ins>       </h1>
+<p> <i> this is a paragraph </i></p>
+<p>  <em> text alligned </em>  </p>
+<p> x <sup>2</sup> </p>
+<del>  text font size  </del>
+</body>
+
+
+</html>
