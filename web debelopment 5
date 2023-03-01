@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+
+<head>
+<title>   my website    </title>
+<style>
+body{background-color:rgb(227,244,234)}
+h1{color:red}
+p{color:green}
+h1{text-align:center}
+
+</style>
+
+</head>
+
+<!-sdaddadadd-> 
+<body>
+
+<h1> <ins>  My paragraph </ins>       </h1>
+<p> <i> this is a paragraph </i></p>
+<p>  <em> <b>text alligned </em> </b> </p>
+<p> x <sup>2</sup> </p>
+<blockquote><q>Hello</q></blockquote>
+<p>  <abbr title="hyper text markup language"> HTML  </abbr>      </p>
+<bdo dir="rtl">any thing</bdo> 
+<del>  text font size  </del>
+</body>
+
+
+</html>
