@@ -1,0 +1,8 @@
+x={"ten":10,"twenty":20,"thirty":30,"forty":40}
+
+print ("0=",list(x))
+print ("1=",list(x.keys()))
+print("2=",list(x.values()))
+print("3=",list(x.items()))
+x.update({'ffity':50})
+print("4=",x)
