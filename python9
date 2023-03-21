@@ -1,0 +1,9 @@
+d=str(input("Enter:"))
+d=d.upper()
+d1=str(input("Enter another:"))
+d1=d1.upper()
+for i in d:
+    print(i.split())
+for i in d:
+    print(i.split())
+    
